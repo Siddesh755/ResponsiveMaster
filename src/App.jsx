@@ -13,7 +13,7 @@ function App() {
         <h1 className='text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold'>For more details contact</h1>
         <a 
           href="https://www.linkedin.com/in/siddesh-navthale-38b555230/" 
-          className="text-gray-700 font-bold text-2xl sm:text-3xl md:text-4xl mt-2 hover:text-blue-600 transition"
+          className="text-gray-700 font-bold text-2xl sm:text-3xl md:text-4xl mt-2 hover:text-[#56e3a6] transition"
         >
           Siddesh Navthale
         </a>
